@@ -32,6 +32,13 @@ Evaluation outputs (e.g., accuracy/precision/recall/F1/AUC and error metrics lik
 
 ---
 
+## How to View:
+Due to a GitHub rendering issue with large notebooks, you may be able to view the fully rendered version here:
+https://nbviewer.org/github/rthaper01/cs145-project-2/blob/main/notebooks/cs145_project2_show_business_redux.ipynb
+
+If this does not work, the only option will be to download the notebook locally to read through it.
+___
+
 ## Quickstart (optional)
 
 If you *do* want to re-run the pipeline, you’ll need:
@@ -49,13 +56,6 @@ Then open the notebook:
 ```bash
 jupyter lab
 ```
-
----
-📓 Notebook (rendered):
-Due to a GitHub rendering issue with large notebooks, you may be able to view the fully rendered version here:
-https://nbviewer.org/github/rthaper01/cs145-project-2/blob/main/notebooks/cs145_project2_show_business_redux.ipynb
-
-If this does not work, the only option will be to download the notebook locally to read through it.
 
 ---
 
