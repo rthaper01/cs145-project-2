@@ -52,8 +52,10 @@ jupyter lab
 
 ---
 📓 Notebook (rendered):
-Due to a GitHub rendering issue with large notebooks, please view the fully rendered version here:
+Due to a GitHub rendering issue with large notebooks, you may be able to view the fully rendered version here:
 https://nbviewer.org/github/rthaper01/cs145-project-2/blob/main/notebooks/cs145_project2_show_business_redux.ipynb
+
+If this does not work, the only option will be to download the notebook locally to read through it.
 
 ---
 
