@@ -51,6 +51,11 @@ jupyter lab
 ```
 
 ---
+📓 Notebook (rendered):
+Due to a GitHub rendering issue with large notebooks, please view the fully rendered version here:
+https://nbviewer.org/github/rthaper01/cs145-project-2/blob/main/notebooks/cs145_project2_show_business_redux.ipynb
+
+---
 
 ## Repository layout
 
